@@ -1,0 +1,8 @@
+{
+  "cmd": "candles",
+  "id": "example-candles",
+  "symbol": "BTCUSDT",
+  "from": 1794787200,
+  "to": 1794794400,
+  "interval": "1h"
+}

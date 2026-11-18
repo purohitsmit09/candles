@@ -1,0 +1,9 @@
+{
+  "cmd": "sma",
+  "id": "example-1",
+  "symbol": "BTCUSDT",
+  "from": 1794787200,
+  "to": 1794873600,
+  "window": 20,
+  "interval": "1h"
+}
